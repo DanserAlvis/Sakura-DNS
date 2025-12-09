@@ -2,8 +2,7 @@
 
 **Sakura DNS** es una herramienta ligera y estética ("Kawaii") para Windows que te permite gestionar tu configuración de DNS y optimizar tu conexión a internet, todo envuelto en una interfaz agradable con radio integrada.
 
-![Sakura DNS Preview](https://via.placeholder.com/720x540.png?text=Aqui+pon+tu+captura+de+pantalla)
-*(Reemplaza este link con una captura real de tu aplicación)*
+<img width="714" height="551" alt="image" src="https://github.com/user-attachments/assets/47b9903e-8b5f-4d86-ba0d-32116544a2e6" />
 
 ## ✨ Características
 
@@ -25,16 +24,15 @@
 3.  Selecciona **"Ejecutar como Administrador"**.
 4.  Elige tu servidor DNS favorito y dale a **¡APLICAR! ✨**.
 
-## 🔧 Solución de Problemas
+## ⚖️ Licencia y Uso
 
-* **¿La aplicación se cierra sola?**
-    Asegúrate de ejecutarla como Administrador. Windows necesita permisos elevados para modificar los adaptadores de red.
-* **¿La radio no suena?**
-    La radio utiliza componentes de Windows Media Player. Asegúrate de tener las características multimedia de Windows activadas.
+Este software es **GRATUITO** y de código abierto, pero tiene reglas estrictas:
 
-## 📝 Licencia
+Copyright (c) 2025 **DanserAlvis**
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+> ⛔ **PROHIBIDA SU VENTA:** Este software no puede ser vendido bajo ninguna circunstancia.
+>
+> ⚠️ **Atribución Obligatoria:** Si compartes o modificas este código, debes dar crédito a **DanserAlvis** y enlazar al repositorio original.
 
 ---
-Hecho con 💖 por **Iván Silva Sanhueza** (Presidente JJVV Vilvilco Centro).
+Hecho con 💖 por **DanserAlvis**.
