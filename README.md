@@ -20,9 +20,8 @@
 ## 🛠️ Cómo Usar
 
 1.  Descarga el archivo `SakuraDNS.hta`.
-2.  Haz **Clic Derecho** sobre el archivo.
-3.  Selecciona **"Ejecutar como Administrador"**.
-4.  Elige tu servidor DNS favorito y dale a **¡APLICAR! ✨**.
+2.  Ejecutar
+3.  Elige tu servidor DNS favorito y dale a **¡APLICAR! ✨**.
 
 ## ⚖️ Licencia y Uso
 
